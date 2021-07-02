@@ -1,5 +1,5 @@
 {
-  "homepage": "http://FlashYield.github.io/flashyield",
+  "homepage": "http://flashyields.github.io/flashyields",
   "name": "react-demo",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.1"
+    "gh-pages": "^3.2.3"
   }
 }
