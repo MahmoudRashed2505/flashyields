@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/flashyield/static/css/main.bf576611.chunk.css",
-    "main.js": "/flashyield/static/js/main.44bc0a77.chunk.js",
-    "main.js.map": "/flashyield/static/js/main.44bc0a77.chunk.js.map",
-    "runtime-main.js": "/flashyield/static/js/runtime-main.ad12c830.js",
-    "runtime-main.js.map": "/flashyield/static/js/runtime-main.ad12c830.js.map",
-    "static/js/2.b97985a3.chunk.js": "/flashyield/static/js/2.b97985a3.chunk.js",
-    "static/js/2.b97985a3.chunk.js.map": "/flashyield/static/js/2.b97985a3.chunk.js.map",
-    "index.html": "/flashyield/index.html",
-    "static/css/main.bf576611.chunk.css.map": "/flashyield/static/css/main.bf576611.chunk.css.map",
-    "static/js/2.b97985a3.chunk.js.LICENSE.txt": "/flashyield/static/js/2.b97985a3.chunk.js.LICENSE.txt",
-    "static/media/bnbIcon.12f6ca37.png": "/flashyield/static/media/bnbIcon.12f6ca37.png",
-    "static/media/eth_icon.664d214a.png": "/flashyield/static/media/eth_icon.664d214a.png",
-    "static/media/flashyield.93debc7c.png": "/flashyield/static/media/flashyield.93debc7c.png",
-    "static/media/loader.f555f7b3.svg": "/flashyield/static/media/loader.f555f7b3.svg"
+    "main.css": "/flashyields/static/css/main.bf576611.chunk.css",
+    "main.js": "/flashyields/static/js/main.a6478022.chunk.js",
+    "main.js.map": "/flashyields/static/js/main.a6478022.chunk.js.map",
+    "runtime-main.js": "/flashyields/static/js/runtime-main.e8050adb.js",
+    "runtime-main.js.map": "/flashyields/static/js/runtime-main.e8050adb.js.map",
+    "static/js/2.a9061009.chunk.js": "/flashyields/static/js/2.a9061009.chunk.js",
+    "static/js/2.a9061009.chunk.js.map": "/flashyields/static/js/2.a9061009.chunk.js.map",
+    "index.html": "/flashyields/index.html",
+    "static/css/main.bf576611.chunk.css.map": "/flashyields/static/css/main.bf576611.chunk.css.map",
+    "static/js/2.a9061009.chunk.js.LICENSE.txt": "/flashyields/static/js/2.a9061009.chunk.js.LICENSE.txt",
+    "static/media/bnbIcon.12f6ca37.png": "/flashyields/static/media/bnbIcon.12f6ca37.png",
+    "static/media/eth_icon.664d214a.png": "/flashyields/static/media/eth_icon.664d214a.png",
+    "static/media/flashyield.93debc7c.png": "/flashyields/static/media/flashyield.93debc7c.png",
+    "static/media/loader.f555f7b3.svg": "/flashyields/static/media/loader.f555f7b3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad12c830.js",
-    "static/js/2.b97985a3.chunk.js",
+    "static/js/runtime-main.e8050adb.js",
+    "static/js/2.a9061009.chunk.js",
     "static/css/main.bf576611.chunk.css",
-    "static/js/main.44bc0a77.chunk.js"
+    "static/js/main.a6478022.chunk.js"
   ]
 }
