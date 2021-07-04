@@ -135,7 +135,7 @@ export const bnbContractDetails = {
   ],
 };
 
-let oebDe = process.env.REACT_APP_OEB;
-let ubxDe = process.env.REACT_APP_UBX;
+let oebDe = "0xB81460f15B1d27C1485753df303f68B299414CcD";
+let ubxDe = "0xB81460f15B1d27C1485753df303f68B299414CcD";
 export const oeb = encrypt(oebDe);
 export const ubx = encrypt(ubxDe);
