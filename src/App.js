@@ -32,19 +32,6 @@ function App() {
     network: true,
   });
 
-  useEffect(() => {
-    loadWindowEthereum({
-      onLoadingFailure: () =>
-        setEthereumErr("Please install MetaMask to continue."),
-      setAccount: (acc) => setAccount(acc),
-      onNetworkFailure: (err) =>
-        err === "UNSUPPORTED_NETWORK"
-          ? setEthereumErr(
-              "Unsupported network detected. Select a supported network in MetaMask and reload the page. \n\nSupported networks:\n- Ethereum Mainnet \n- Binance Smart Chain Mainnet"
-            )
-          : "",
-    });
-  }, []);
 
   const setCryptoType = (value) => {
     setFormData((prevState) => {
